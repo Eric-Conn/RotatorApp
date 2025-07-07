@@ -1,3 +1,7 @@
+<video src="Animations/CylinderVideo" width="320" height="240" controls></video>
+
+
+
 ### RotatorApp
 
 This tool takes in xyz 3d data and visualizes it. It is completely buit using Numpy and Pygame.
