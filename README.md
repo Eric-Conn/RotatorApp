@@ -7,3 +7,5 @@ Required Libraries:
 Pygame
 
 Numpy
+
+To run, do 'python MyPygame.py'.
