@@ -1,4 +1,4 @@
-<video src="Animations/CylinderVideo" width="320" height="240" controls></video>
+<video src="Animations/CylinderVideo.mov" width="320" height="240" controls></video>
 
 
 
