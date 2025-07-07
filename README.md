@@ -4,6 +4,9 @@
 
 This tool takes in xyz 3d data and visualizes it. It is completely buit using Numpy and Pygame.
 
+The special part is that I made it completely from scratch using just Numpy and Pygame.
+
+
 Required Libraries:
 
 Pygame
