@@ -20,6 +20,10 @@ Soon it will be able to visualize any xyz point cloud in the csv format. Right n
 To use, just click and drag to rotate the visualization.
 
 
+Some other stuff:
+The math involved in making the making various dummy datasets is interesting.
+
+
 
 Problems:
 If you move the mouse really fast towards the top left corner, the program will stop working. 
