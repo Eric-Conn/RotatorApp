@@ -26,4 +26,4 @@ The math involved in making the making various dummy datasets is interesting.
 
 
 Problems:
-If you move the mouse really fast towards the top left corner, the program will stop working. 
+If you move the mouse really fast towards the top left corner, the program will stop working.  
